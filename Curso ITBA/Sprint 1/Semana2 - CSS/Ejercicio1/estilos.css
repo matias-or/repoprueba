@@ -1,0 +1,9 @@
+p {
+    font-family: 'Jura';
+    font-size: medium;
+}
+
+.titulo-principal {
+    text-align: center;
+    color: darkorange;
+}
